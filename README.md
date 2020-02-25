@@ -37,7 +37,7 @@ The repository is structured in the following levels:
 
 #### Liguria ####
 
-{|
+{
 |-
 !Categoria
 !Link
