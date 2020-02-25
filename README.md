@@ -17,7 +17,7 @@ The repository is structured in the following levels:
 #### Italy ####
 
 * Mappe
-* * [Mappa del contagio in Italia](https://lab.gedidigital.it/gedi-visual/2020/coronavirus-in-italia/)
+  * [Mappa del contagio in Italia](https://lab.gedidigital.it/gedi-visual/2020/coronavirus-in-italia/)
 
 #### Liguria ####
 
