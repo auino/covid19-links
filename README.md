@@ -12,7 +12,7 @@ The repository is structured in the following levels:
 #### World ####
 
 * Statistics
- * [Worldometer - Global view of the spread of the virus](https://www.worldometers.info/coronavirus/)
+  * [Worldometer - Global view of the spread of the virus](https://www.worldometers.info/coronavirus/)
 
 #### Italy ####
 
@@ -22,8 +22,8 @@ The repository is structured in the following levels:
 #### Liguria ####
 
 * News
- * [Il Secolo XIX](https://www.ilsecoloxix.it)
- * [Primocanale](https://www.primocanale.it)
+  * [Il Secolo XIX](https://www.ilsecoloxix.it)
+  * [Primocanale](https://www.primocanale.it)
 
 ### Contribution ###
 
