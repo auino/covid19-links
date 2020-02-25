@@ -11,46 +11,19 @@ The repository is structured in the following levels:
 
 #### World ####
 
-{| class="wikitable"
-|-
-!Category
-!Link
-!Description
-|-
-|Statistics
-|[https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)
-|Worldometer - Global view of the spread of the virus
-|}
+'''Statistics'''
+*[Worldometer - Global view of the spread of the virus](https://www.worldometers.info/coronavirus/)
 
 #### Italy ####
 
-{| class="wikitable"
-|-
-!Categoria
-!Link
-!Descrizione
-|-
-|Mappa
-|[https://lab.gedidigital.it/gedi-visual/2020/coronavirus-in-italia/](https://lab.gedidigital.it/gedi-visual/2020/coronavirus-in-italia/)
-|Mappa del contagio in Italia
-|}
+'''Mappe'''
+* [Mappa del contagio in Italia](https://lab.gedidigital.it/gedi-visual/2020/coronavirus-in-italia/)
 
 #### Liguria ####
 
-{
-|-
-!Categoria
-!Link
-!Descrizione
-|-
-|News
-|[https://www.ilsecoloxix.it](https://www.ilsecoloxix.it)
-|Il Secolo XIX
-|-
-|News
-|[https://www.primocanale.it](https://www.primocanale.it)
-|Primocanale
-|}
+'''News'''
+* [Il Secolo XIX](https://www.ilsecoloxix.it)
+* [Primocanale](https://www.primocanale.it)
 
 ### Contribution ###
 
