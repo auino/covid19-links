@@ -12,16 +12,19 @@ The repository is structured in the following levels:
 #### World ####
 
 '''Statistics'''
-*[Worldometer - Global view of the spread of the virus](https://www.worldometers.info/coronavirus/)
+
+* [Worldometer - Global view of the spread of the virus](https://www.worldometers.info/coronavirus/)
 
 #### Italy ####
 
 '''Mappe'''
+
 * [Mappa del contagio in Italia](https://lab.gedidigital.it/gedi-visual/2020/coronavirus-in-italia/)
 
 #### Liguria ####
 
 '''News'''
+
 * [Il Secolo XIX](https://www.ilsecoloxix.it)
 * [Primocanale](https://www.primocanale.it)
 
