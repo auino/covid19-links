@@ -20,6 +20,7 @@ The repository is structured in the following levels:
 |Statistics
 |[https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)
 |Worldometer - Global view of the spread of the virus
+|-
 |}
 
 #### Italy ####
