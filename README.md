@@ -11,8 +11,11 @@ The repository is structured in the following levels:
 
 #### World ####
 
-* Statistics
+* Maps
+  * [Live map by Johns Hopkins, CSSE](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
   * [Worldometer - Global view of the spread of the virus](https://www.worldometers.info/coronavirus/)
+  * [Windy live map](https://windy.app/coronavirus_map)
+  * [NY Times live map](https://www.nytimes.com/interactive/2020/world/asia/china-wuhan-coronavirus-maps.html)
 
 #### Italy ####
 
