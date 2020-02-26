@@ -29,6 +29,7 @@ The repository is structured in the following levels:
 * News
   * [Il Secolo XIX](https://www.ilsecoloxix.it)
   * [Primocanale](https://www.primocanale.it)
+  * [@GiovanniToti su Twitter](https://twitter.com/GiovanniToti)
 
 ### Contribution ###
 
