@@ -24,6 +24,7 @@ The repository is structured in the following levels:
   * [Mappa italiana by Francesco Napoletano](https://napolux.com/coronamap/)
 * Informazioni generiche
   * [Sito dedicato del Ministero della Salute](http://www.salute.gov.it/nuovocoronavirus)
+  * [Comunicati stampa della Protezione Civile](http://www.protezionecivile.gov.it/web/guest/media-comunicazione/comunicati-stampa)
 
 #### Liguria ####
 
