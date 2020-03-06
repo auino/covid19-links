@@ -22,6 +22,8 @@ The repository is structured in the following levels:
 * Mappe
   * [Mappa del contagio in Italia](https://lab.gedidigital.it/gedi-visual/2020/coronavirus-in-italia/)
   * [Mappa italiana by Francesco Napoletano](https://napolux.com/coronamap/)
+* News
+  * [News della Protezione Civile](http://www.protezionecivile.gov.it/web/guest/media-comunicazione/news)
 * Informazioni generiche
   * [Sito dedicato del Ministero della Salute](http://www.salute.gov.it/nuovocoronavirus)
   * [Comunicati stampa della Protezione Civile](http://www.protezionecivile.gov.it/web/guest/media-comunicazione/comunicati-stampa)
