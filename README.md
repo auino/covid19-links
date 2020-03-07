@@ -27,6 +27,7 @@ The repository is structured in the following levels:
 * Informazioni generiche
   * [Sito dedicato del Ministero della Salute](http://www.salute.gov.it/nuovocoronavirus)
   * [Comunicati stampa della Protezione Civile](http://www.protezionecivile.gov.it/web/guest/media-comunicazione/comunicati-stampa)
+  * [Pagina dedicata de Il sole 24 ore](https://lab24.ilsole24ore.com/coronavirus/)
 
 #### Liguria ####
 
