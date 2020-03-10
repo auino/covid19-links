@@ -28,6 +28,7 @@ The repository is structured in the following levels:
   * [Sito dedicato del Ministero della Salute](http://www.salute.gov.it/nuovocoronavirus)
   * [Comunicati stampa della Protezione Civile](http://www.protezionecivile.gov.it/web/guest/media-comunicazione/comunicati-stampa)
   * [Pagina dedicata de Il sole 24 ore](https://lab24.ilsole24ore.com/coronavirus/)
+  * [Lista di servizi digitali diponibili per far fronte all'emergenza](https://solidarietadigitale.agid.gov.it)
 * Dati
   * [Sorgente dati dell'epidemia in Italia](https://github.com/pcm-dpc/COVID-19)
 
