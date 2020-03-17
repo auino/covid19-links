@@ -30,7 +30,7 @@ The repository is structured in the following levels:
   * [Pagina dedicata de Il sole 24 ore](https://lab24.ilsole24ore.com/coronavirus/)
   * [Lista di servizi digitali diponibili per far fronte all'emergenza](https://solidarietadigitale.agid.gov.it)
 * Dati
-  * [Sorgente dati dell'epidemia in Italia](https://github.com/pcm-dpc/COVID-19)
+  * [Sorgente dati della Protezione Civile sull'epidemia in Italia](https://github.com/pcm-dpc/COVID-19)
 
 #### Liguria ####
 
