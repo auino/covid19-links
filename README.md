@@ -16,6 +16,7 @@ The repository is structured in the following levels:
   * [Worldometer - Global view of the spread of the virus](https://www.worldometers.info/coronavirus/)
   * [Windy live map](https://windy.app/coronavirus_map)
   * [NY Times live map](https://www.nytimes.com/interactive/2020/world/asia/china-wuhan-coronavirus-maps.html)
+  * [Globe view of the countries affected by Covid-19](https://covidvisualizer.com)
 
 #### Italy ####
 
