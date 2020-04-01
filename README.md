@@ -9,6 +9,9 @@ The repository is structured in the following levels:
 * Italy: links of interest to Italians (in Italian language)
 * Liguria: links of interest to people from Liguria, Italy (in Italian language)
 
+It is also possible to use the provided [Python3](https://www.python.org) script to automatically open the links in this repository.
+The script works both on desktop and mobile (tested on native macOS and iOS, through the [Pythonista](http://omz-software.com/pythonista/) app).
+
 #### World ####
 
 * Maps
@@ -39,6 +42,32 @@ The repository is structured in the following levels:
   * [Il Secolo XIX](https://www.ilsecoloxix.it)
   * [Primocanale](https://www.primocanale.it)
   * [@GiovanniToti su Twitter](https://twitter.com/GiovanniToti)
+
+### Script usage ###
+
+#### Pre-requisites ####
+
+1. Clone the repository:
+```
+git clone https://github.com/auino/covid19-links.git
+```
+
+2. Enter the repository directory:
+```
+cd covid19-links
+```
+
+3. Install requirements:
+```
+pip3 install -r requirements.txt
+```
+
+#### Execution ####
+
+Just run the following command:
+```
+python3 covid19-links.py
+```
 
 ### Contribution ###
 
