@@ -42,6 +42,8 @@ The script works both on desktop and mobile (tested on native macOS and iOS, thr
   * [Il Secolo XIX](https://www.ilsecoloxix.it)
   * [Primocanale](https://www.primocanale.it)
   * [@GiovanniToti su Twitter](https://twitter.com/GiovanniToti)
+* Dati
+  * [Informazioni aggregate sulla diffusione del virus in Liguria](https://www.italiatuttobene.it/liguria/)
 
 ### Script usage ###
 
