@@ -43,6 +43,7 @@ The script works both on desktop and mobile (tested on native macOS and iOS, thr
 * News
   * [Il Secolo XIX](https://www.ilsecoloxix.it)
   * [Primocanale](https://www.primocanale.it)
+  * [@RegLiguria su Twitter](https://twitter.com/RegLiguria)
   * [@GiovanniToti su Twitter](https://twitter.com/GiovanniToti)
 
 ### Script usage ###
