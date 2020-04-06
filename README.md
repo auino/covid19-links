@@ -35,6 +35,8 @@ The script works both on desktop and mobile (tested on native macOS and iOS, thr
   * [Lista di servizi digitali diponibili per far fronte all'emergenza](https://solidarietadigitale.agid.gov.it)
 * Dati
   * [Sorgente dati della Protezione Civile sull'epidemia in Italia](https://github.com/pcm-dpc/COVID-19)
+  * [Informazioni aggregate sulla diffusione del virus](https://www.italiatuttobene.it)
+  * [Grafici per le varie regioni d'Italia](https://heyteacher.github.io/COVID-19/#/Liguria)
 
 #### Liguria ####
 
@@ -42,8 +44,6 @@ The script works both on desktop and mobile (tested on native macOS and iOS, thr
   * [Il Secolo XIX](https://www.ilsecoloxix.it)
   * [Primocanale](https://www.primocanale.it)
   * [@GiovanniToti su Twitter](https://twitter.com/GiovanniToti)
-* Dati
-  * [Informazioni aggregate sulla diffusione del virus in Liguria](https://www.italiatuttobene.it/liguria/)
 
 ### Script usage ###
 
